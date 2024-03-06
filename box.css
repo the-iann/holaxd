@@ -1,0 +1,107 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px ridge black;
+    box-shadow: -5px 5px 30px black;
+    margin: 100px;
+    padding: 100px;
+}
+
+#Yes{
+    width: 20px;
+    height: 400px;
+    background: purple;
+    border: 5px groove green;
+    box-shadow: -5px 10px 50px black;
+    margin: 100px;
+    padding: 100px;
+}
+
+#No{
+    width: 50px;
+    height: 50px;
+    background-color: aqua;
+    border: 7px inset yellow;
+    box-shadow: 6px 0px 4px blueviolet;
+    margin: 200px;
+    padding: 20px;
+}
+
+#XD{
+    width: 70px;
+    height: 40px;
+    background-color: blueviolet;
+    border: 10px dotted azure ;
+    box-shadow: 4px 0px 5px greenyellow;
+    margin: 150px;
+    padding-left: 30px;
+}
+    #Mom{
+        width: 10px;
+        height: 20px;
+        background-color: blue;
+        border: 10px none gray ;
+        box-shadow: 4px 0px 9px greenyellow;
+        margin: 150px;
+        padding-left: 30px;
+    }
+    #wtf{
+        width: 10px;
+        height: 43px;
+        background-color: blueviolet;
+        border: 10px double aquamarine ;
+        box-shadow: 10px 0px 5px rgb(112, 9, 132);
+        margin: 200px;
+        padding-left: 30px;
+    }
+    #opo{
+        width: 70px;
+        height: 40px;
+        background-color: blueviolet;
+        border: 10px medium  azure ;
+        box-shadow: 4px 0px 5px rgb(5, 240, 52);
+        margin: 150px;
+        padding-left: 30px;
+    }
+        #omg{
+            width: 100px;
+            height: 60px;
+            background-color: rgb(43, 46, 226);
+            border: 10px solid rgb(181, 9, 49) ;
+            box-shadow: 4px 0px 5px greenyellow;
+            margin: 150px;
+            padding-left: 30px;
+        }
+    #lol{
+        width: 70px;
+        height: 40px;
+        background-color: rgb(43, 119, 226);
+        border: 30px inherit black ;
+        box-shadow: -10px 0px 5px rgb(255, 47, 234);
+        margin: 150px;
+        padding-right: 40px;
+    }
+    #a{
+        width: 40px;
+        height: 40px;
+        background-color: rgb(46, 6, 83);
+        border: 10px initial azure ;
+        box-shadow: -10px 0px 5px black;
+        margin: 150px;
+        padding-left: 30px;
+    }
+    #e{
+        width: 70px;
+        height: 40px;
+        background-color: rebeccapurple;
+        border: 10px dotted azure ;
+        box-shadow: -20px 0px 5px black;
+        margin: 150px;
+        padding: 50px;
+    }

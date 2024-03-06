@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2? family= Montserrat:wght@200;400;600 & display=swap');
+@font-face{
+    font-family: "Montserrat";
+    src: url(font/Micro5-Regular.ttf)
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    transition: all 2s;
+}
+
+#Color1{
+    color: aqua;
+}
+
+#Color1:hover{
+    transition: 2s all ease;
+    transform: scale(1.2) rotate(360deg);
+}
+
+#Color2{
+    background: -webkit-linear-gradient(yellow,red);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    color: tomato;  
+}
+
+#family1{
+    font-family: sans-serif;
+}
+
+#family2{
+    margin-top: 0%;
+    font-family: "Montserrat", cursive;
+    font-weight: 10;
+    font-style:  normal;
+    text-shadow: 0 0 10px rgb(255, 255, 233);
+}
+
+#tamaño1{
+font-size: 50px;
+}
+
+#tamaño2{
+font-size: 0.3pc;
+}
+
+#font1{
+font-style: normal;
+}
+
+#font2{
+font-style: italic;
+}
+
+#font3{
+font-style: oblique;
+}
+
+#fontw1{
+    font-weight:  bold ;
+}
+
+#fontw2{
+font-weight: lighter;
+}
+
+#fontw3{
+font-weight: 1000;
+}
+
+#transfor1{
+text-transform: capitalize;
+}
+
+#transfor2{
+text-transform: lowercase;
+}
+
+#transfor3{
+text-transform: none;
+
+}
+
+#transfor4{
+text-transform: uppercase;
+}
+
+#decoracion1{
+    text-decoration: none;
+}
+
+#decoracion2{
+    text-decoration: underline;
+}
+
+#decoracion3{
+    text-decoration: overline;
+}
+
+#decoracion4{
+    text-decoration: line-through;
+}
+
+#decoracion5{
+    text-decoration: none;
+}
+
+#shadow1{
+    text-shadow: 0 0 5px;
+}
+
+#shadow2{
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+#text1{
+    text-align: center;
+    line-height: 1.0;
+}
+
+#text2{
+    text-align: left;
+    line-height: 2.0;
+}
+
+#text3{
+    text-align: right;
+    line-height: 3.0;
+}
+
+#text4{
+    text-align: justify;
+    line-height: .5; 
+}
+
+#separ1{
+letter-spacing: 10px;
+}
+
+#separ2{
+    letter-spacing: 20px;
+}
+
+#separ3{
+word-spacing: 10px;
+}
+
+#separ4{
+word-spacing: 25px;
+
+}

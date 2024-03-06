@@ -1,0 +1,126 @@
+*{
+    margin: 10px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+div{
+    width: 200px;
+    height: 200px;
+    background: red;
+    border: 2px ridge black;
+    box-shadow: -5px 5px 30px black;
+    margin: 100px;
+    padding: 100px;
+}
+#Yes{
+    width: 70px;
+        height: 40px;
+        background-color: peru;
+        border: 30px inherit black ;
+}
+
+#No{
+    width: 70px;
+        height: 40px;
+        background-color: #C0C0C0;
+        border: 30px inherit black ;
+}
+
+#no2{
+width: 70px;
+height: 40px;
+background-color: #FAB;
+}
+
+#XD{
+    width: 70px;
+        height: 40px;
+        background-color: rgb(43, 119, 226);
+        border: 30px inherit black ;
+}
+#XD2{
+    width: 70px;
+        height: 40px;
+        background-color: rgb(30%, 20%, 100%);
+        border: 30px inherit black ;
+}
+    #Mom{
+        width: 70px;
+        height: 40px;
+        background-color: rgba(255, 99, 71, 0.5);
+        border: 30px inherit black ;
+    }
+    #Mom2{
+        width: 70px;
+        height: 40px;
+        background-color: rgba(100%, 10%, 0%, 1);
+    }
+    #wtf1{
+        width: 70px;
+        height: 40px;
+        background: linear-gradient(to right,blue , pink);
+        border: 30px inherit black ;
+    }
+    #wtf2{
+        width: 70px;
+        height: 40px;
+        background: linear-gradient(to bottom right , blue , pink);
+        border: 30px inherit black ;
+    }
+    #wtf3{
+        width: 70px;
+        height: 40px;
+        background: linear-gradient(70deg, blue , pink);
+        border: 30px inherit black ;
+    }
+    #wtf4{
+        width: 70px;
+        height: 40px;
+        background: linear-gradient(red, yellow, blue , orange );
+        border: 30px inherit black ;
+    }
+    #wtf5{
+        width: 70px;
+        height: 40px;
+        background: linear-gradient(blue, 10%, pink);
+        border: 30px inherit black ;
+    }
+    #opo{
+        width: 70px;
+        height: 40px;
+        border: 40px inherit black ;
+        box-shadow: 6px 2px 2px 1px rgba(0, 0, 0, 0.2);
+    }
+        #omg{
+            width: 70px;
+        height: 40px;  
+        background-color: hsl(248, 57%, 58%);
+        border: 30px inherit black ;
+        }
+        #omg2{
+            width: 70px;
+        height: 40px;
+        background-color: hsl(0.3turn 60% 45%);
+        border: 30px inherit black ;
+        }
+    #lol{
+        width: 70px;
+        height: 40px;
+        background-color: hsla(120, 100%, 50%, 0.3);
+        border: 30px inherit black ;
+        
+    }
+    #lol2{
+        width: 70px;
+        height: 40px;
+        background-color: hsla(120, 60%, 70%, 0.3);
+        border: 30px inherit black ;
+        
+    }
+    #ex{
+        width: 70px;
+        height: 40px;
+        background: radial-gradient(circle at 100%, #333 ,#333 50%, #eee 75%, #333 75%);
+        border: 30px inherit black ;
+        
+    }
